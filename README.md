@@ -8,4 +8,7 @@ A app built with ReactJs that is basically a Mini EmojiPedia. It will tell the u
 - JavaScript
 - ReactJs
 
-## Preaview
+## Preview
+
+  ![input](https://user-images.githubusercontent.com/66691162/216347726-8ab5a7a2-6766-4ec7-a31d-a0caa88e7b89.png)
+  ![emoji](https://user-images.githubusercontent.com/66691162/216347782-f35ed143-4821-4978-9577-f89e60070099.png)
